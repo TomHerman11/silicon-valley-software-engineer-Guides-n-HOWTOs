@@ -1,1 +1,1 @@
-# silicon-valley-software-engineer-HOWTOs
+# silicon-valley-software-engineer-guides-n-HOWTOs
